@@ -2,8 +2,6 @@
 
 An n8n workflow that helps automate incoming customer-support emails by classifying messages, retrieving relevant information from a knowledge base, and preparing or sending a contextual reply through Gmail.
 
-> **Project note:** This workflow was adapted from an existing n8n community template. Credit the original template creator, Yasser Sami, and describe your contribution accurately. If you customized the workflow for a client, document the specific changes you made. Only describe it as a client implementation if it was actually deployed or delivered for that client.
-
 ## Business problem
 
 Support teams often receive repetitive questions that require agents to search FAQs or internal documentation before replying. Manually triaging every email can slow response times and make it harder to keep responses consistent.
