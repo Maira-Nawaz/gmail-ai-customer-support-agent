@@ -60,7 +60,7 @@ By connecting email classification, knowledge retrieval, and response generation
 
 ## Workflow Architecture
 
-![AI-Powered Customer Support Workflow](![Workflow](https://github.com/Maira-Nawaz/gmail-ai-customer-support-agent/blob/main/workflow-overview.png))
+![AI-Powered Customer Support Workflow](https://github.com/Maira-Nawaz/gmail-ai-customer-support-agent/blob/main/workflow-overview.png)
 
 
 
