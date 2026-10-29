@@ -18,7 +18,7 @@ This workflow connects Gmail with an AI classification and retrieval flow. Suppo
 4. **Retrieval and response generation:** The AI agent uses the connected knowledge base to find relevant context and formulate a response.
 5. **Gmail actions:** The workflow labels the message and replies through Gmail, according to the configured logic.
 
-See [`screenshots/workflow-overview.png`](screenshots/workflow-overview.png) for the workflow layout.
+See [`screenshots/workflow-overview.png`](https://github.com/Maira-Nawaz/gmail-ai-customer-support-agent/blob/main/workflow-overview.png) for the workflow layout.
 
 ## Tools and integrations
 
